@@ -1,0 +1,13 @@
+{
+  "models": [
+    {
+      "code_name": "gingko",
+      "batch_file": "echo '%fastboot% reboot'"
+    },
+    {
+      "code_name": "another_code_name",
+      "batch_file": "echo 'This is the batch file content for another_code_name'"
+    },
+    // ... (other models)
+  ]
+}
