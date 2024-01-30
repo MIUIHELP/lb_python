@@ -1,1 +1,1 @@
-fastboot reboot fastboot
+fastboot reboot bootloader
