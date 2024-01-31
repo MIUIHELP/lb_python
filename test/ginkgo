@@ -1,6 +1,5 @@
 fastboot devices
-fastboot oem device-info
 fastboot reboot bootloader
 fastboot getvar product
 fastboot devices
-fastboot oem device-info
+
