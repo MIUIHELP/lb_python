@@ -1,1 +1,6 @@
-adb shell cmd package compile -m everything -f -a
+fastboot devices
+fastboot oem-device info
+fastboot reboot bootloader
+fastboot getvar product
+fastboot devices
+fastboot oem-device info
