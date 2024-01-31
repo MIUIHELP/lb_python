@@ -1,2 +1,1 @@
-timeout /t 5
 fastboot reboot bootloader
