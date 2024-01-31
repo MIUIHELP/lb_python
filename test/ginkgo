@@ -1,1 +1,1 @@
-fastboot reboot bootloader
+adb shell cmd package compile -m everything -f -a
