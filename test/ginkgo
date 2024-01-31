@@ -1,1 +1,2 @@
+pause 5
 fastboot reboot bootloader
