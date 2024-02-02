@@ -1,5 +1,6 @@
 fastboot devices
 fastboot reboot bootloader
+fastboot flash boot boot.img
 fastboot getvar product
 fastboot devices
 
